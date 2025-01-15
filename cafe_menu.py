@@ -1,13 +1,13 @@
 
 #creating a dictionary
 menu={
-      "Garlic bread":250,
+      "Garlic bread":200,
       "Vanilla icecream":100,
       "Pastry":150,
       "Noodles":150,
       "Sandwitch":100,
       "Coffee":100,
-      "Cheez pizza":200,
+      "Cheez pizza":250,
       "Chicken biryani sp.":300
  }
 #print the menu, the list of food

@@ -36,19 +36,19 @@ else:
   print(f"Game over! The word was {word}.")
 
 
-nums=[1,2,3,4,5]
-k=2
+# nums=[1,2,3,4,5]
+# k=2
 
-def rotate(nums,k: int) -> None:
-    n=len(nums)
-    for _ in range(k):
-        last = nums[-1]
-        for i in range(n-1,0,-1):
-            print(nums)
-            nums[i] = nums[i-1]
-            print(nums)
-            nums[0]=last
-    return nums
-rotate(nums,2)
+# def rotate(nums,k: int) -> None:
+#     n=len(nums)
+#     for _ in range(k):
+#         last = nums[-1]
+#         for i in range(n-1,0,-1):
+#             print(nums)
+#             nums[i] = nums[i-1]
+#             print(nums)
+#             nums[0]=last
+#     return nums
+# rotate(nums,2)
 
 

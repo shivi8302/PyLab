@@ -37,7 +37,7 @@ def main():
         print("3. Delete student")     
         print("4. Display student")     
         print("5. Exit")     
-        choice = int(input("Enter your choice:"))
+        choice = int(input("Enter your choice:"))   
         if choice == 1:
              name =  input("Enter student name:")
              mark = int(input("Enter student marks:"))

@@ -1,4 +1,3 @@
-
 import turtle
 t=turtle.Turtle()
 t.color("dark red")
